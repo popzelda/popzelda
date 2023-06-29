@@ -3,7 +3,7 @@ Hi, I'm a junior backend developer with the Django framework.
 annex technology: github,doker,html,css,bootstrap,jquery
 
  
-<--!**popzelda/popzelda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**popzelda/popzelda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
